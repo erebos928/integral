@@ -27,6 +27,6 @@ public class AppTest
     @Test
     public void checkResult()
     {
-        assertTrue(4.0 == calculator.calculate());
+        assertTrue(3.0 == calculator.calculate());
     }
 }
